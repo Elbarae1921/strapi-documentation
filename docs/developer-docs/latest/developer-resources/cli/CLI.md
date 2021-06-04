@@ -354,10 +354,9 @@ strapi generate:template <path>
 ```
 
 - **strapi generate:template &#60;path&#62;**<br/>
+  Generates a Strapi template at `<path>`
 
-Generates a Strapi template at `<path>`
-
-Example: `strapi generate:template ../strapi-template-name` will copy the required files and folders to a `template` directory inside `../strapi-template-name`
+  Example: `strapi generate:template ../strapi-template-name` will copy the required files and folders to a `template` directory inside `../strapi-template-name`
 
 
 ## strapi install
